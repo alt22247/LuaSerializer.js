@@ -259,3 +259,13 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/LuaSerializer.js/StringBuilder.js.map
+/LuaSerializer.js/StringBuilder.js
+/LuaSerializer.js/ParseException.js.map
+/LuaSerializer.js/ParseException.js
+/LuaSerializer.js/LuaSerializer.js.map
+/LuaSerializer.js/LuaSerializer.js
+/LuaSerializer.js/DataReader.js.map
+/LuaSerializer.js/DataReader.js
+/LuaSerializer.js/DataParser.js.map
+/LuaSerializer.js/DataParser.js
