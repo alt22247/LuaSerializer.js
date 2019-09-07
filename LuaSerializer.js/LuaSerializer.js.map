@@ -1,0 +1,1 @@
+{"version":3,"file":"LuaSerializer.js","sourceRoot":"","sources":["LuaSerializer.ts"],"names":[],"mappings":"AAAA,MAAM,aAAa;IACR,WAAW,CAAC,IAAY;QAC3B,IAAI,IAAI,IAAI,IAAI;YACZ,OAAO,IAAI,CAAC;QAEhB,IAAI,MAAM,GAAG,IAAI,UAAU,CAAC,IAAI,CAAC,CAAC;QAElC,OAAO,MAAM,CAAC,KAAK,EAAE,CAAC;IAC1B,CAAC;CAGJ"}
